@@ -1,12 +1,12 @@
 {
   "project_info": {
-    "project_number": "400271469660",
-    "project_id": "river-pointer-129523"
+    "project_number": "282095829478",
+    "project_id": "lab1p1-1296"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:400271469660:android:40bd9973174263d2",
+        "mobilesdk_app_id": "1:282095829478:android:40bd9973174263d2",
         "android_client_info": {
           "package_name": "com.example.agneev.gcm_test"
         }
@@ -14,7 +14,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBm6Z7a25GI3lelFhhCdgQlTUxPI-mIMII"
+          "current_key": "AIzaSyD4ZUlSdQaxwCBspoZ-hYUAyKdwFLZBVkY"
         }
       ],
       "services": {
